@@ -18,11 +18,10 @@
 body {
     width: 100%;
     height: 100vh;
-    background: url(../images/bg-top.svg) no-repeat top right, #F7F7FE;
+    background: url(./images/bg-top.svg) no-repeat top right, #F7F7FE;
     font-family: var(--font-family);
     display: flex;
     justify-content: center;
-    /* background-color: #F7F7FE; */
 }
 
 main {

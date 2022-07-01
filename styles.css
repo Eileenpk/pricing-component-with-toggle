@@ -22,6 +22,7 @@ body {
     font-family: var(--font-family);
     display: flex;
     justify-content: center;
+    /* background-color: #F7F7FE; */
 }
 
 main {
@@ -245,11 +246,10 @@ button {
 
 @media (min-width: 950px) {
     body {
-        background: url(../images/bg-top.svg) no-repeat top right, url(./images/bg-bottom.svg) no-repeat bottom left;
+        background: url(./images/bg-top.svg) no-repeat top right, url(./images/bg-bottom.svg) no-repeat bottom left, #F7F7FE;
         font-family: var(--font-family);
         display: flex;
         justify-content: center;
-        background-color: #F2F2F2;
     }
 
     .container {

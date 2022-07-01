@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Screenshot
 
-![screen shot of full screen webpage](https://github.com/Eileenpk/order-summary-component/blob/main/images/Screenshot-full-website.png)
-![screen shot of mobile webpage](https://github.com/Eileenpk/order-summary-component/blob/main/images/Screenshot-mobile.png)
+![screen shot of full screen webpage](https://github.com/Eileenpk/pricing-component-with-toggle/blob/main/images/Screenshot-full-website.png)
+![screen shot of mobile webpage](https://github.com/Eileenpk/pricing-component-with-toggle/blob/main/images/Screenshot-mobile.png)
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Eileenpk/pricing-component-with-toggle)
@@ -34,6 +34,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- Vanilla JavaScript
 
 
 ### What I learned
